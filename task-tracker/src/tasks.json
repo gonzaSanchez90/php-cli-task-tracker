@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "description": "comprar pan",
+        "status": "todo",
+        "createdAt": "2025-02-19 17:50:06",
+        "updatedAt": "2025-02-19 17:50:06"
+    },
+    {
+        "id": 2,
+        "description": "comprar agua",
+        "status": "done",
+        "createdAt": "2025-02-19 17:53:01",
+        "updatedAt": "2025-02-19 18:14:39"
+    },
+    {
+        "id": 3,
+        "description": "comprar sosa",
+        "status": "todo",
+        "createdAt": "2025-02-19 17:58:51",
+        "updatedAt": "2025-02-19 17:58:51"
+    },
+    {
+        "id": 4,
+        "description": "pepe",
+        "status": "in-progress",
+        "createdAt": "2025-02-19 18:14:20",
+        "updatedAt": "2025-02-19 18:17:28"
+    }
+]
